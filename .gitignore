@@ -21,7 +21,7 @@ Desktop.ini
 *.swo
 
 # ====================== VSCode 专用缓存 ======================
-# .vscode/
+.vscode/
 # 注意：如果你要保存tasks.json/launch.json到仓库，注释上面一行，但不要删除下面这行注释
 # !.vscode/tasks.json
 # !.vscode/launch.json
