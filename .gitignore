@@ -21,7 +21,7 @@ Desktop.ini
 *.swo
 
 # ====================== VSCode 专用缓存 ======================
-.vscode/
+# .vscode/
 # 注意：如果你要保存tasks.json/launch.json到仓库，注释上面一行，但不要删除下面这行注释
 # !.vscode/tasks.json
 # !.vscode/launch.json
@@ -62,8 +62,6 @@ ARM/
 # 项目缓存
 *.vcxproj.user
 *.csproj.user
-# Visual Studio Code（如果你同时用vscode打开这个项目）
-.vscode/
 # 自定义输出文件夹
 bin/
 obj/
