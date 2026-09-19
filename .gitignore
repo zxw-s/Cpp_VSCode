@@ -22,7 +22,7 @@ Desktop.ini
 
 # ====================== VSCode 专用缓存 ======================
 # .vscode/
-# 注意：如果你要保存tasks.json/launch.json到仓库，注释上面一行，但不要删除下面这行注释
+# 注意：如果你不要保存tasks.json/launch.json到仓库，打开上面一行注释，同时注释或删除下面这三行
 # !.vscode/tasks.json
 # !.vscode/launch.json
 # !.vscode/c_cpp_properties.json
